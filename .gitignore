@@ -1,0 +1,4 @@
+.DS_Store
+*.zip
+report.json
+__pycache__/
